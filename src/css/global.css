@@ -1,0 +1,22 @@
+/* Estilo Geral */
+
+* {
+    background-color: var(--bege-fundo);
+}
+
+body {
+    background-color: var(--bege-fundo);
+    font-family: 'Montserrat', sans-serif;
+    color: var(--marrom-juju);
+    margin: 0;
+}
+
+.categories {
+    padding: 10px 10px;
+}
+
+.category-title{
+    color: var(--marrom-juju);
+    text-transform: capitalize;
+    font-weight: 900;
+}

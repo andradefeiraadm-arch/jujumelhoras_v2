@@ -1,0 +1,10 @@
+/* Definição de Variáveis */
+:root {
+    --rosa-juju: rgb(252, 203, 207);
+    --marrom-juju: #5D3A31;
+    --vermelho-juju: #D32F2F;
+    --bege-fundo: rgb(250, 242, 239);
+    --branco: #FFFFFF;
+    --radius-padrao: 20px;
+    --shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
