@@ -1,8 +1,9 @@
+
 /*Variáveis*/
-@import url('/src/css/variables.css');
+@import url("/src/css/variables.css");
 
 /*Estilos Globais*/
-@import url('/src/css/global.css');
+@import url("/src/css/global.css");
 
 /*Estilos Laytous*/
 @import url('/src/css/layout.css');
