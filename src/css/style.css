@@ -10,5 +10,5 @@
 
 @import url("reset.css");
 
-@import url("buttons.css");
+@import url("../../src/css/components/buttons.css");
 
