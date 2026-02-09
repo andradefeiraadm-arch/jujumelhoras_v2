@@ -1,4 +1,4 @@
-@import url('src/css/variables.css');
+@import url('/src/css/variables.css');
 
 /*Estilo Header*/
 
@@ -21,7 +21,7 @@
 }
 
 .logo-header {
-    background-image: url('assets/images/logo-jujumelhoras.png');
+    background-image: url('/assets/images/logo-jujumelhoras.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -64,7 +64,7 @@
     background-position: center;
     background-repeat: no-repeat;
     border-radius: 10px;
-    background-image: url('assets/images/Gemini_Generated_Image_saladas.png');
+    background-image: url('/assets/images/Gemini_Generated_Image_saladas.png');
 }
 
 #description-text {
@@ -115,7 +115,7 @@
 }
 
 #icon1 {
-    background-image: url('assets/icons/pizza.png');
+    background-image: url('/assets/icons/pizza.png');
     background-size: 55%;
     background-position: center;
     background-repeat: no-repeat;
@@ -123,7 +123,7 @@
 }
 
 #icon2 {
-    background-image: url('assets/icons/esfiha.png');
+    background-image: url('/assets/icons/esfiha.png');
     background-size: 60%;
     background-position: center;
     background-repeat: no-repeat;
@@ -131,7 +131,7 @@
 }
 
 #icon3 {
-    background-image: url('assets/icons/burger.png');
+    background-image: url('/assets/icons/burger.png');
     background-size: 50%;
     background-position: center;
     background-repeat: no-repeat;
@@ -198,7 +198,7 @@
 }
 
 #destaque-img-1{
-    background-image: url('assets/images/Gemini_Generated_Image_saladas.png');
+    background-image: url('/assets/images/Gemini_Generated_Image_saladas.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -207,7 +207,7 @@
 }
 
 #destaque-img-2{
-    background-image: url('assets/images/Gemini_Generated_Image_fv1btfv1btfv1btf.png');
+    background-image: url('/assets/images/Gemini_Generated_Image_fv1btfv1btfv1btf.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -216,7 +216,7 @@
 }
 
 #destaque-img-3{
-    background-image: url('assets/images/Screenshot_2026-02-07_23-05-34.png');
+    background-image: url('/assets/images/Screenshot_2026-02-07_23-05-34.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -238,7 +238,7 @@
 }
 
 .about-img {
-    background-image: url('assets/images/Gemini_Generated_Image_about.png');
+    background-image: url('/assets/images/Gemini_Generated_Image_about.png');
     min-width: 120px;
     height: 90px;
     background-size: cover;
